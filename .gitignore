@@ -1,0 +1,15 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+.fleet/
+
+# Root-level env
+.env
+.env.local
+
+# Graphify local cache
+graphify-out/cache/
