@@ -157,3 +157,44 @@ Um schema por recurso em `app/validators/`:
 4. **Token duplicado** — o token de acesso é salvo tanto na tabela `access_tokens` (via `DbAccessTokensProvider`) quanto na coluna `user.token` (`SessionController.store`), redundante.
 5. **`createReadingValidator` não é usado** — `ReadingsController.store` usa `request.only([...])` sem validação de schema, então dados malformados chegam direto ao `Reading.create`.
 6. **`ReadingsController.store` não checa ownership do sensor** — qualquer usuário autenticado pode enviar leitura para `sensorId` de outro usuário.
+
+## Plano de ação — atualização e melhorias
+
+Levantamento feito em 2026-08-14 contra a documentação oficial ([v6-docs.adonisjs.com](https://v6-docs.adonisjs.com/)) e o changelog do framework ([github.com/adonisjs/core/releases](https://github.com/adonisjs/core/releases)).
+
+### 1. Patch de segurança (prioridade máxima)
+
+`@adonisjs/core` está em `6.17.2`. Existe **CVE-2026-21440** (GHSA-gvq6-hvvp-h34h, severidade **crítica**, path traversal em multipart file handling), corrigido em `6.19.2` (publicado 2026-01-02).
+
+```bash
+npm install @adonisjs/core@^6.21.0
+```
+
+O projeto não usa upload de arquivo hoje (`grep` por `request.file`/`MultipartFile` não retornou nada), mas o `bodyparser_middleware` roda em toda rota — atualizar mesmo assim. Atenção a breaking change conhecido de 2026-01-10: serialização de transformer mudou de método estático do core para serializer nos starter kits (avaliar impacto em `serializeAs`/serialização de models).
+
+Rodar `npm run typecheck` e `npm test` depois do bump.
+
+### 2. Dependências minor (baixo risco)
+
+```
+@adonisjs/auth   ^9.3.2  → ^9.6.0   (ainda major 9, sem breaking esperado)
+@adonisjs/lucid  ^21.6.1 → ^21.8.2
+@vinejs/vine, luxon, pg, prettier, eslint, @types/* → últimas versões patch/minor
+```
+
+### 3. Majors pendentes (avaliar depois, não bloqueante)
+
+`@adonisjs/core` 7.x, `@adonisjs/auth` 10.x, `@adonisjs/assembler` 8.x, `@adonisjs/cors` 3.x — ler changelog de cada um antes de migrar. Sem urgência para o tamanho atual do projeto.
+
+### 4. Configuração
+
+- `config/cors.ts`: `origin: true` + `credentials: true` reflete qualquer origem com credenciais — aceitável em dev, restringir para lista explícita de origens antes de produção.
+- Confirmar que `start/env.ts` valida todas as vars de `.env.example` (`DB_*`, `APP_KEY`, etc.) com schema, não só presença.
+
+### 5. Testes
+
+`tests/bootstrap.ts` existe mas não há nenhum teste escrito. Stack Japa já instalada (`@japa/api-client`, `@japa/assert`, `@japa/plugin-adonisjs`). Prioridade de cobertura: fluxo de auth (`SessionController`), CRUD de `sensor`/`readings` com guard — cobrir também os bugs de ownership listados na seção de pendências, para virarem regressão detectável.
+
+### 6. Estrutura
+
+Sem `policies/`/`abilities/`/`providers/` — adequado ao tamanho atual. Se a checagem de ownership (pendências 1 e 6) crescer, migrar para Bouncer (`@adonisjs/bouncer`) em vez de repetir validação manual em cada controller.

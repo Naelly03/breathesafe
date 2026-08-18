@@ -1,422 +1,432 @@
 {
-  "C:\\Dev\\tcc\\breathesafe\\breathesafe-back\\ace.js": {
-    "mtime": 1786723847.2367795,
-    "ast_hash": "b593c270c74cc96161ed3c3990f327b3",
-    "semantic_hash": "b593c270c74cc96161ed3c3990f327b3"
-  },
-  "C:\\Dev\\tcc\\breathesafe\\breathesafe-back\\adonisrc.ts": {
-    "mtime": 1786723847.2367795,
-    "ast_hash": "8bfc08d8f6e49165836b4b088324faa7",
-    "semantic_hash": "8bfc08d8f6e49165836b4b088324faa7"
-  },
-  "C:\\Dev\\tcc\\breathesafe\\breathesafe-back\\eslint.config.js": {
-    "mtime": 1786723847.2537796,
-    "ast_hash": "cb6b3db096723eae97ff9380418ad470",
-    "semantic_hash": "cb6b3db096723eae97ff9380418ad470"
-  },
-  "C:\\Dev\\tcc\\breathesafe\\breathesafe-back\\package.json": {
-    "mtime": 1786723847.25778,
-    "ast_hash": "6ab888926c46c151b02f63fc45f0def8",
-    "semantic_hash": "6ab888926c46c151b02f63fc45f0def8"
-  },
-  "C:\\Dev\\tcc\\breathesafe\\breathesafe-back\\tsconfig.json": {
-    "mtime": 1786723847.2617786,
-    "ast_hash": "cec15e60e6619634b93b56df1f82ec14",
-    "semantic_hash": "cec15e60e6619634b93b56df1f82ec14"
-  },
-  "C:\\Dev\\tcc\\breathesafe\\breathesafe-back\\app\\controllers\\readings_controller.ts": {
-    "mtime": 1786723847.237797,
-    "ast_hash": "fef0cc5535988fe12c31b18b8ae6f0f1",
-    "semantic_hash": "fef0cc5535988fe12c31b18b8ae6f0f1"
-  },
-  "C:\\Dev\\tcc\\breathesafe\\breathesafe-back\\app\\controllers\\sensors_controller.ts": {
-    "mtime": 1786723847.2387795,
-    "ast_hash": "db4b7823e4e10005a2817e750faecc86",
-    "semantic_hash": "db4b7823e4e10005a2817e750faecc86"
-  },
-  "C:\\Dev\\tcc\\breathesafe\\breathesafe-back\\app\\controllers\\session_controller.ts": {
-    "mtime": 1786723847.2387795,
-    "ast_hash": "0b498ad414434c84787e1e9179fbf218",
-    "semantic_hash": "0b498ad414434c84787e1e9179fbf218"
-  },
-  "C:\\Dev\\tcc\\breathesafe\\breathesafe-back\\app\\controllers\\users_controller.ts": {
-    "mtime": 1786723847.2397795,
-    "ast_hash": "9919a5d249135c713039234e91db8116",
-    "semantic_hash": "9919a5d249135c713039234e91db8116"
-  },
-  "C:\\Dev\\tcc\\breathesafe\\breathesafe-back\\app\\exceptions\\handler.ts": {
-    "mtime": 1786723847.2397795,
-    "ast_hash": "a21575be6bf8d530736c9502897e7c33",
-    "semantic_hash": "a21575be6bf8d530736c9502897e7c33"
-  },
-  "C:\\Dev\\tcc\\breathesafe\\breathesafe-back\\app\\middleware\\auth_middleware.ts": {
-    "mtime": 1786723847.2407794,
-    "ast_hash": "52320e6f93fdb5362106f94959aa5082",
-    "semantic_hash": "52320e6f93fdb5362106f94959aa5082"
-  },
-  "C:\\Dev\\tcc\\breathesafe\\breathesafe-back\\app\\middleware\\container_bindings_middleware.ts": {
-    "mtime": 1786723847.2407794,
-    "ast_hash": "c20a13df8a2d1b439dddcc2024d426d7",
-    "semantic_hash": "c20a13df8a2d1b439dddcc2024d426d7"
-  },
-  "C:\\Dev\\tcc\\breathesafe\\breathesafe-back\\app\\middleware\\force_json_response_middleware.ts": {
-    "mtime": 1786723847.241779,
-    "ast_hash": "06176f13a8c870a86194c9f1d13a1fa8",
-    "semantic_hash": "06176f13a8c870a86194c9f1d13a1fa8"
-  },
-  "C:\\Dev\\tcc\\breathesafe\\breathesafe-back\\app\\models\\reading.ts": {
-    "mtime": 1786723847.241779,
-    "ast_hash": "4a12119ca58ae67b3ba28794fa0d6540",
-    "semantic_hash": "4a12119ca58ae67b3ba28794fa0d6540"
-  },
-  "C:\\Dev\\tcc\\breathesafe\\breathesafe-back\\app\\models\\sensor.ts": {
-    "mtime": 1786723847.2427793,
-    "ast_hash": "813255ff236b89aacbbdc2080a07da53",
-    "semantic_hash": "813255ff236b89aacbbdc2080a07da53"
-  },
-  "C:\\Dev\\tcc\\breathesafe\\breathesafe-back\\app\\models\\user.ts": {
-    "mtime": 1786723847.2437792,
-    "ast_hash": "b7519098a3dbdfdc18020b3792fcd13c",
-    "semantic_hash": "b7519098a3dbdfdc18020b3792fcd13c"
-  },
-  "C:\\Dev\\tcc\\breathesafe\\breathesafe-back\\app\\validators\\reading.ts": {
-    "mtime": 1786723847.2437792,
-    "ast_hash": "4e3fb83fb8dcea39a1fbcfca552e8b14",
-    "semantic_hash": "4e3fb83fb8dcea39a1fbcfca552e8b14"
-  },
-  "C:\\Dev\\tcc\\breathesafe\\breathesafe-back\\app\\validators\\sensor.ts": {
-    "mtime": 1786723847.244781,
-    "ast_hash": "fe2aecf795a32e72c66c3419bcf7d034",
-    "semantic_hash": "fe2aecf795a32e72c66c3419bcf7d034"
-  },
-  "C:\\Dev\\tcc\\breathesafe\\breathesafe-back\\app\\validators\\session.ts": {
-    "mtime": 1786723847.244781,
-    "ast_hash": "6892ba7ff49edecca13e545b3ca45d30",
-    "semantic_hash": "6892ba7ff49edecca13e545b3ca45d30"
-  },
-  "C:\\Dev\\tcc\\breathesafe\\breathesafe-back\\app\\validators\\user.ts": {
-    "mtime": 1786723847.244781,
-    "ast_hash": "6af035fb8f13a461cb20a0c74c2f56e6",
-    "semantic_hash": "6af035fb8f13a461cb20a0c74c2f56e6"
-  },
-  "C:\\Dev\\tcc\\breathesafe\\breathesafe-back\\bin\\console.ts": {
-    "mtime": 1786723847.2457795,
-    "ast_hash": "8195adf8e6e6659daed9a61581d8c008",
-    "semantic_hash": "8195adf8e6e6659daed9a61581d8c008"
-  },
-  "C:\\Dev\\tcc\\breathesafe\\breathesafe-back\\bin\\server.ts": {
-    "mtime": 1786723847.2457795,
-    "ast_hash": "154b826a43b691a2105c0dd0a6a76d07",
-    "semantic_hash": "154b826a43b691a2105c0dd0a6a76d07"
-  },
-  "C:\\Dev\\tcc\\breathesafe\\breathesafe-back\\bin\\test.ts": {
-    "mtime": 1786723847.2457795,
-    "ast_hash": "dfdd4d578b63339ae127ddfd295aad37",
-    "semantic_hash": "dfdd4d578b63339ae127ddfd295aad37"
-  },
-  "C:\\Dev\\tcc\\breathesafe\\breathesafe-back\\config\\app.ts": {
-    "mtime": 1786723847.2467792,
-    "ast_hash": "5ad47c9c16eb855a72a926c97e946cc4",
-    "semantic_hash": "5ad47c9c16eb855a72a926c97e946cc4"
-  },
-  "C:\\Dev\\tcc\\breathesafe\\breathesafe-back\\config\\auth.ts": {
-    "mtime": 1786723847.2477791,
-    "ast_hash": "0dfcb9d57e3c7e6aa556fce7df8eca2c",
-    "semantic_hash": "0dfcb9d57e3c7e6aa556fce7df8eca2c"
-  },
-  "C:\\Dev\\tcc\\breathesafe\\breathesafe-back\\config\\bodyparser.ts": {
-    "mtime": 1786723847.2477791,
-    "ast_hash": "86975926312f419d7a0899faf33c5b08",
-    "semantic_hash": "86975926312f419d7a0899faf33c5b08"
-  },
-  "C:\\Dev\\tcc\\breathesafe\\breathesafe-back\\config\\cors.ts": {
-    "mtime": 1786723847.2477791,
-    "ast_hash": "296bf400a9f57c0302a3001529adc607",
-    "semantic_hash": "296bf400a9f57c0302a3001529adc607"
-  },
-  "C:\\Dev\\tcc\\breathesafe\\breathesafe-back\\config\\database.ts": {
-    "mtime": 1786723847.2487943,
-    "ast_hash": "5a8e39909bc748346d144bcefec3f642",
-    "semantic_hash": "5a8e39909bc748346d144bcefec3f642"
-  },
-  "C:\\Dev\\tcc\\breathesafe\\breathesafe-back\\config\\hash.ts": {
-    "mtime": 1786723847.2487943,
-    "ast_hash": "87f7030f9131b9da93e4e637ab474cb9",
-    "semantic_hash": "87f7030f9131b9da93e4e637ab474cb9"
-  },
-  "C:\\Dev\\tcc\\breathesafe\\breathesafe-back\\config\\logger.ts": {
-    "mtime": 1786723847.2497952,
-    "ast_hash": "d7b14321639042f0cefe79286ea06d7a",
-    "semantic_hash": "d7b14321639042f0cefe79286ea06d7a"
-  },
-  "C:\\Dev\\tcc\\breathesafe\\breathesafe-back\\database\\migrations\\1742241289943_create_users_table.ts": {
-    "mtime": 1786723847.2507806,
-    "ast_hash": "bcb2f8f04eb9b619dce2a604e6bd0a9b",
-    "semantic_hash": "bcb2f8f04eb9b619dce2a604e6bd0a9b"
-  },
-  "C:\\Dev\\tcc\\breathesafe\\breathesafe-back\\database\\migrations\\1742242035430_create_sensors_table.ts": {
-    "mtime": 1786723847.2517793,
-    "ast_hash": "0cc8e1705e8df1e5373c720c185283e2",
-    "semantic_hash": "0cc8e1705e8df1e5373c720c185283e2"
-  },
-  "C:\\Dev\\tcc\\breathesafe\\breathesafe-back\\database\\migrations\\1742242067784_create_readings_table.ts": {
-    "mtime": 1786723847.2517793,
-    "ast_hash": "2c84255694984cda1bfa2eafefbc2255",
-    "semantic_hash": "2c84255694984cda1bfa2eafefbc2255"
-  },
-  "C:\\Dev\\tcc\\breathesafe\\breathesafe-back\\database\\seeders\\reading_seeder.ts": {
-    "mtime": 1786723847.2527955,
-    "ast_hash": "ddceb2f2d19ced055e0bdeb31e70fc41",
-    "semantic_hash": "ddceb2f2d19ced055e0bdeb31e70fc41"
-  },
-  "C:\\Dev\\tcc\\breathesafe\\breathesafe-back\\database\\seeders\\sensor_seeder.ts": {
-    "mtime": 1786723847.2527955,
-    "ast_hash": "b4a94441ceaf73a13a204be228b75a95",
-    "semantic_hash": "b4a94441ceaf73a13a204be228b75a95"
-  },
-  "C:\\Dev\\tcc\\breathesafe\\breathesafe-back\\database\\seeders\\user_seeder.ts": {
-    "mtime": 1786723847.2527955,
-    "ast_hash": "0bd172f91bb1e871aea34f3903ddce65",
-    "semantic_hash": "0bd172f91bb1e871aea34f3903ddce65"
-  },
-  "C:\\Dev\\tcc\\breathesafe\\breathesafe-back\\start\\env.ts": {
-    "mtime": 1786723847.2597873,
-    "ast_hash": "e8ba14fd5788eb3161654e37650f18cf",
-    "semantic_hash": "e8ba14fd5788eb3161654e37650f18cf"
-  },
-  "C:\\Dev\\tcc\\breathesafe\\breathesafe-back\\start\\kernel.ts": {
-    "mtime": 1786723847.2597873,
-    "ast_hash": "ce6ba198590289233647ca5bcbbac3ff",
-    "semantic_hash": "ce6ba198590289233647ca5bcbbac3ff"
-  },
-  "C:\\Dev\\tcc\\breathesafe\\breathesafe-back\\start\\routes.ts": {
-    "mtime": 1786723847.2597873,
-    "ast_hash": "b4d85d382367bb638f4e7a587f88d004",
-    "semantic_hash": "b4d85d382367bb638f4e7a587f88d004"
-  },
-  "C:\\Dev\\tcc\\breathesafe\\breathesafe-back\\tests\\bootstrap.ts": {
-    "mtime": 1786723847.2607803,
-    "ast_hash": "ca83fc2e90ed3aa896e86e7e4b7743a0",
-    "semantic_hash": "ca83fc2e90ed3aa896e86e7e4b7743a0"
-  },
-  "C:\\Dev\\tcc\\breathesafe\\breathesafe-front\\+not-found.tsx": {
-    "mtime": 1786723847.2627828,
-    "ast_hash": "0d4888243aac8bee946cf064f659e9ba",
-    "semantic_hash": "0d4888243aac8bee946cf064f659e9ba"
-  },
-  "C:\\Dev\\tcc\\breathesafe\\breathesafe-front\\app.json": {
-    "mtime": 1786723847.2647798,
-    "ast_hash": "d9c8c6b4119b0f74334621871736fd39",
-    "semantic_hash": "d9c8c6b4119b0f74334621871736fd39"
-  },
-  "C:\\Dev\\tcc\\breathesafe\\breathesafe-front\\package.json": {
-    "mtime": 1786723847.272781,
-    "ast_hash": "de1c668944ce2e6b4af9881546e495f8",
-    "semantic_hash": "de1c668944ce2e6b4af9881546e495f8"
-  },
-  "C:\\Dev\\tcc\\breathesafe\\breathesafe-front\\tsconfig.json": {
-    "mtime": 1786723847.2937803,
-    "ast_hash": "adaaaa688f7831aff81ec39d16eeca1d",
-    "semantic_hash": "adaaaa688f7831aff81ec39d16eeca1d"
-  },
-  "C:\\Dev\\tcc\\breathesafe\\breathesafe-front\\_layout.tsx": {
-    "mtime": 1786723847.2647798,
-    "ast_hash": "47d82faeabbf40d38c28d0a2d4739902",
-    "semantic_hash": "47d82faeabbf40d38c28d0a2d4739902"
-  },
-  "C:\\Dev\\tcc\\breathesafe\\breathesafe-front\\app\\(tabs)\\config.tsx": {
-    "mtime": 1786723847.2657793,
-    "ast_hash": "0da26bd7add8345f7f7e5c425024cc46",
-    "semantic_hash": "0da26bd7add8345f7f7e5c425024cc46"
-  },
-  "C:\\Dev\\tcc\\breathesafe\\breathesafe-front\\app\\(tabs)\\connection.tsx": {
-    "mtime": 1786723847.2667792,
-    "ast_hash": "e8a55f0ea6e74c1a1b5232913a7d8f17",
-    "semantic_hash": "e8a55f0ea6e74c1a1b5232913a7d8f17"
-  },
-  "C:\\Dev\\tcc\\breathesafe\\breathesafe-front\\app\\(tabs)\\guest.tsx": {
-    "mtime": 1786723847.2667792,
-    "ast_hash": "8fb7451984ef1f2b2757ac3992afd6e7",
-    "semantic_hash": "8fb7451984ef1f2b2757ac3992afd6e7"
-  },
-  "C:\\Dev\\tcc\\breathesafe\\breathesafe-front\\app\\(tabs)\\history.tsx": {
-    "mtime": 1786723847.267779,
-    "ast_hash": "92170dde7037b1df8a20e7ba224f45a0",
-    "semantic_hash": "92170dde7037b1df8a20e7ba224f45a0"
-  },
-  "C:\\Dev\\tcc\\breathesafe\\breathesafe-front\\app\\(tabs)\\index.tsx": {
-    "mtime": 1786723847.267779,
-    "ast_hash": "c4e5516c68236aca995c933212eae572",
-    "semantic_hash": "c4e5516c68236aca995c933212eae572"
-  },
-  "C:\\Dev\\tcc\\breathesafe\\breathesafe-front\\app\\(tabs)\\login.tsx": {
-    "mtime": 1786723847.267779,
-    "ast_hash": "c50c5dd44c021b17943e92c192b34127",
-    "semantic_hash": "c50c5dd44c021b17943e92c192b34127"
-  },
-  "C:\\Dev\\tcc\\breathesafe\\breathesafe-front\\app\\(tabs)\\monitoring.tsx": {
-    "mtime": 1786723847.2687795,
-    "ast_hash": "db35b9dacfff27c828fa4ebb0474954e",
-    "semantic_hash": "db35b9dacfff27c828fa4ebb0474954e"
-  },
-  "C:\\Dev\\tcc\\breathesafe\\breathesafe-front\\app\\(tabs)\\new_account.tsx": {
-    "mtime": 1786723847.2697802,
-    "ast_hash": "5b4bde09b7e03f268099983075158df6",
-    "semantic_hash": "5b4bde09b7e03f268099983075158df6"
-  },
-  "C:\\Dev\\tcc\\breathesafe\\breathesafe-front\\app\\(tabs)\\register_sensor.tsx": {
-    "mtime": 1786723847.2697802,
-    "ast_hash": "d8819861ad4ae0ba798ce98ed4574090",
-    "semantic_hash": "d8819861ad4ae0ba798ce98ed4574090"
-  },
-  "C:\\Dev\\tcc\\breathesafe\\breathesafe-front\\app\\(tabs)\\welcome.tsx": {
-    "mtime": 1786723847.2697802,
-    "ast_hash": "e446df5d4cc461812738ac8390c2f270",
-    "semantic_hash": "e446df5d4cc461812738ac8390c2f270"
-  },
-  "C:\\Dev\\tcc\\breathesafe\\breathesafe-front\\app\\(tabs)\\_layout.tsx": {
-    "mtime": 1786723847.2657793,
-    "ast_hash": "0c403d7c4aeae03fbed2a40ceab544ba",
-    "semantic_hash": "0c403d7c4aeae03fbed2a40ceab544ba"
-  },
-  "C:\\Dev\\tcc\\breathesafe\\breathesafe-front\\scripts\\reset-project.js": {
-    "mtime": 1786723847.2757795,
-    "ast_hash": "082c3e15f2f8d48d42cc734140b2e26a",
-    "semantic_hash": "082c3e15f2f8d48d42cc734140b2e26a"
-  },
-  "C:\\Dev\\tcc\\breathesafe\\breathesafe-front\\src\\components\\Collapsible.tsx": {
-    "mtime": 1786723847.2817945,
-    "ast_hash": "9f51e39313a3e305c606d9697b44b89e",
-    "semantic_hash": "9f51e39313a3e305c606d9697b44b89e"
-  },
-  "C:\\Dev\\tcc\\breathesafe\\breathesafe-front\\src\\components\\ExternalLink.tsx": {
-    "mtime": 1786723847.2817945,
-    "ast_hash": "e501e2947c842dd5b2ee2d45bdcbed85",
-    "semantic_hash": "e501e2947c842dd5b2ee2d45bdcbed85"
-  },
-  "C:\\Dev\\tcc\\breathesafe\\breathesafe-front\\src\\components\\HapticTab.tsx": {
-    "mtime": 1786723847.2827835,
-    "ast_hash": "0794528a2e4a1d38e4b561471776013a",
-    "semantic_hash": "0794528a2e4a1d38e4b561471776013a"
-  },
-  "C:\\Dev\\tcc\\breathesafe\\breathesafe-front\\src\\components\\Header.tsx": {
-    "mtime": 1786723847.283782,
-    "ast_hash": "ba37b418a220a669c9310ecba9a251ec",
-    "semantic_hash": "ba37b418a220a669c9310ecba9a251ec"
-  },
-  "C:\\Dev\\tcc\\breathesafe\\breathesafe-front\\src\\components\\HelloWave.tsx": {
-    "mtime": 1786723847.283782,
-    "ast_hash": "97c4d75416dab534eb26e15ddd6f968e",
-    "semantic_hash": "97c4d75416dab534eb26e15ddd6f968e"
-  },
-  "C:\\Dev\\tcc\\breathesafe\\breathesafe-front\\src\\components\\ParallaxScrollView.tsx": {
-    "mtime": 1786723847.2847972,
-    "ast_hash": "9a5da821fd8d9a24d0648402ac2059f4",
-    "semantic_hash": "9a5da821fd8d9a24d0648402ac2059f4"
-  },
-  "C:\\Dev\\tcc\\breathesafe\\breathesafe-front\\src\\components\\ThemedText.tsx": {
-    "mtime": 1786723847.2857797,
-    "ast_hash": "dd525216efd54bcefc01abc1a1f7b460",
-    "semantic_hash": "dd525216efd54bcefc01abc1a1f7b460"
-  },
-  "C:\\Dev\\tcc\\breathesafe\\breathesafe-front\\src\\components\\ThemedView.tsx": {
-    "mtime": 1786723847.2857797,
-    "ast_hash": "5cb508c66998e477c4d6e79c97d8565b",
-    "semantic_hash": "5cb508c66998e477c4d6e79c97d8565b"
-  },
-  "C:\\Dev\\tcc\\breathesafe\\breathesafe-front\\src\\components\\ui\\IconSymbol.ios.tsx": {
-    "mtime": 1786723847.2877905,
-    "ast_hash": "089d11181cc7542fa42b05fade85fe36",
-    "semantic_hash": "089d11181cc7542fa42b05fade85fe36"
-  },
-  "C:\\Dev\\tcc\\breathesafe\\breathesafe-front\\src\\components\\ui\\IconSymbol.tsx": {
-    "mtime": 1786723847.2877905,
-    "ast_hash": "ba4b458b061aa57eb631da879bf915a6",
-    "semantic_hash": "ba4b458b061aa57eb631da879bf915a6"
-  },
-  "C:\\Dev\\tcc\\breathesafe\\breathesafe-front\\src\\components\\ui\\TabBarBackground.ios.tsx": {
-    "mtime": 1786723847.2888014,
-    "ast_hash": "c1edf2dfd2564a770a1bb4c18175af78",
-    "semantic_hash": "c1edf2dfd2564a770a1bb4c18175af78"
-  },
-  "C:\\Dev\\tcc\\breathesafe\\breathesafe-front\\src\\components\\ui\\TabBarBackground.tsx": {
-    "mtime": 1786723847.2888014,
-    "ast_hash": "0734f6feb67ba3cebeeea59de7b05512",
-    "semantic_hash": "0734f6feb67ba3cebeeea59de7b05512"
-  },
-  "C:\\Dev\\tcc\\breathesafe\\breathesafe-front\\src\\components\\__tests__\\ThemedText-test.tsx": {
-    "mtime": 1786723847.2857797,
-    "ast_hash": "400947ab122546df760de6e899aa21aa",
-    "semantic_hash": "400947ab122546df760de6e899aa21aa"
-  },
-  "C:\\Dev\\tcc\\breathesafe\\breathesafe-front\\src\\constants\\Colors.ts": {
-    "mtime": 1786723847.2897813,
-    "ast_hash": "c0ff5b026e6bca04d441f412e8c8389d",
-    "semantic_hash": "c0ff5b026e6bca04d441f412e8c8389d"
-  },
-  "C:\\Dev\\tcc\\breathesafe\\breathesafe-front\\src\\hooks\\useColorScheme.ts": {
-    "mtime": 1786723847.2907796,
-    "ast_hash": "5e75b3d5ace0289cfc1bab951ca625bb",
-    "semantic_hash": "5e75b3d5ace0289cfc1bab951ca625bb"
-  },
-  "C:\\Dev\\tcc\\breathesafe\\breathesafe-front\\src\\hooks\\useColorScheme.web.ts": {
-    "mtime": 1786723847.2907796,
-    "ast_hash": "bcd7b96a68e8a00dd1de95aac4953eb6",
-    "semantic_hash": "bcd7b96a68e8a00dd1de95aac4953eb6"
-  },
-  "C:\\Dev\\tcc\\breathesafe\\breathesafe-front\\src\\hooks\\useThemeColor.ts": {
-    "mtime": 1786723847.29178,
-    "ast_hash": "87c530411508a93daad201b13712fed1",
-    "semantic_hash": "87c530411508a93daad201b13712fed1"
-  },
-  "C:\\Dev\\tcc\\breathesafe\\breathesafe-front\\src\\services\\api.ts": {
-    "mtime": 1786723847.2927964,
-    "ast_hash": "385f7bc16e05a12ba9c78d96ca109169",
-    "semantic_hash": "385f7bc16e05a12ba9c78d96ca109169"
-  },
-  "C:\\Dev\\tcc\\breathesafe\\breathesafe-front\\src\\types\\env.d.ts": {
-    "mtime": 1786723847.2937803,
-    "ast_hash": "3fed0d9ebf338a10607a4b1561810e4e",
-    "semantic_hash": "3fed0d9ebf338a10607a4b1561810e4e"
-  },
   "C:\\Dev\\tcc\\breathesafe\\CLAUDE.md": {
     "mtime": 1786724239.5652323,
     "ast_hash": "2d8e840652ffcd9115e4a8308b457230",
     "semantic_hash": "2d8e840652ffcd9115e4a8308b457230"
   },
-  "C:\\Dev\\tcc\\breathesafe\\breathesafe-back\\docker-compose.yml": {
+  "C:\\Dev\\tcc\\breathesafe\\back\\ace.js": {
+    "mtime": 1786723847.2367795,
+    "ast_hash": "b593c270c74cc96161ed3c3990f327b3",
+    "semantic_hash": ""
+  },
+  "C:\\Dev\\tcc\\breathesafe\\back\\adonisrc.ts": {
+    "mtime": 1786723847.2367795,
+    "ast_hash": "8bfc08d8f6e49165836b4b088324faa7",
+    "semantic_hash": ""
+  },
+  "C:\\Dev\\tcc\\breathesafe\\back\\eslint.config.js": {
+    "mtime": 1786723847.2537796,
+    "ast_hash": "cb6b3db096723eae97ff9380418ad470",
+    "semantic_hash": ""
+  },
+  "C:\\Dev\\tcc\\breathesafe\\back\\package.json": {
+    "mtime": 1786723847.25778,
+    "ast_hash": "6ab888926c46c151b02f63fc45f0def8",
+    "semantic_hash": ""
+  },
+  "C:\\Dev\\tcc\\breathesafe\\back\\tsconfig.json": {
+    "mtime": 1786723847.2617786,
+    "ast_hash": "cec15e60e6619634b93b56df1f82ec14",
+    "semantic_hash": ""
+  },
+  "C:\\Dev\\tcc\\breathesafe\\back\\app\\controllers\\readings_controller.ts": {
+    "mtime": 1786723847.237797,
+    "ast_hash": "fef0cc5535988fe12c31b18b8ae6f0f1",
+    "semantic_hash": ""
+  },
+  "C:\\Dev\\tcc\\breathesafe\\back\\app\\controllers\\sensors_controller.ts": {
+    "mtime": 1786723847.2387795,
+    "ast_hash": "db4b7823e4e10005a2817e750faecc86",
+    "semantic_hash": ""
+  },
+  "C:\\Dev\\tcc\\breathesafe\\back\\app\\controllers\\session_controller.ts": {
+    "mtime": 1786723847.2387795,
+    "ast_hash": "0b498ad414434c84787e1e9179fbf218",
+    "semantic_hash": ""
+  },
+  "C:\\Dev\\tcc\\breathesafe\\back\\app\\controllers\\users_controller.ts": {
+    "mtime": 1786723847.2397795,
+    "ast_hash": "9919a5d249135c713039234e91db8116",
+    "semantic_hash": ""
+  },
+  "C:\\Dev\\tcc\\breathesafe\\back\\app\\exceptions\\handler.ts": {
+    "mtime": 1786723847.2397795,
+    "ast_hash": "a21575be6bf8d530736c9502897e7c33",
+    "semantic_hash": ""
+  },
+  "C:\\Dev\\tcc\\breathesafe\\back\\app\\middleware\\auth_middleware.ts": {
+    "mtime": 1786723847.2407794,
+    "ast_hash": "52320e6f93fdb5362106f94959aa5082",
+    "semantic_hash": ""
+  },
+  "C:\\Dev\\tcc\\breathesafe\\back\\app\\middleware\\container_bindings_middleware.ts": {
+    "mtime": 1786723847.2407794,
+    "ast_hash": "c20a13df8a2d1b439dddcc2024d426d7",
+    "semantic_hash": ""
+  },
+  "C:\\Dev\\tcc\\breathesafe\\back\\app\\middleware\\force_json_response_middleware.ts": {
+    "mtime": 1786723847.241779,
+    "ast_hash": "06176f13a8c870a86194c9f1d13a1fa8",
+    "semantic_hash": ""
+  },
+  "C:\\Dev\\tcc\\breathesafe\\back\\app\\models\\reading.ts": {
+    "mtime": 1786723847.241779,
+    "ast_hash": "4a12119ca58ae67b3ba28794fa0d6540",
+    "semantic_hash": ""
+  },
+  "C:\\Dev\\tcc\\breathesafe\\back\\app\\models\\sensor.ts": {
+    "mtime": 1786723847.2427793,
+    "ast_hash": "813255ff236b89aacbbdc2080a07da53",
+    "semantic_hash": ""
+  },
+  "C:\\Dev\\tcc\\breathesafe\\back\\app\\models\\user.ts": {
+    "mtime": 1786723847.2437792,
+    "ast_hash": "b7519098a3dbdfdc18020b3792fcd13c",
+    "semantic_hash": ""
+  },
+  "C:\\Dev\\tcc\\breathesafe\\back\\app\\validators\\reading.ts": {
+    "mtime": 1786723847.2437792,
+    "ast_hash": "4e3fb83fb8dcea39a1fbcfca552e8b14",
+    "semantic_hash": ""
+  },
+  "C:\\Dev\\tcc\\breathesafe\\back\\app\\validators\\sensor.ts": {
+    "mtime": 1786723847.244781,
+    "ast_hash": "fe2aecf795a32e72c66c3419bcf7d034",
+    "semantic_hash": ""
+  },
+  "C:\\Dev\\tcc\\breathesafe\\back\\app\\validators\\session.ts": {
+    "mtime": 1786723847.244781,
+    "ast_hash": "6892ba7ff49edecca13e545b3ca45d30",
+    "semantic_hash": ""
+  },
+  "C:\\Dev\\tcc\\breathesafe\\back\\app\\validators\\user.ts": {
+    "mtime": 1786723847.244781,
+    "ast_hash": "6af035fb8f13a461cb20a0c74c2f56e6",
+    "semantic_hash": ""
+  },
+  "C:\\Dev\\tcc\\breathesafe\\back\\bin\\console.ts": {
+    "mtime": 1786723847.2457795,
+    "ast_hash": "8195adf8e6e6659daed9a61581d8c008",
+    "semantic_hash": ""
+  },
+  "C:\\Dev\\tcc\\breathesafe\\back\\bin\\server.ts": {
+    "mtime": 1786723847.2457795,
+    "ast_hash": "154b826a43b691a2105c0dd0a6a76d07",
+    "semantic_hash": ""
+  },
+  "C:\\Dev\\tcc\\breathesafe\\back\\bin\\test.ts": {
+    "mtime": 1786723847.2457795,
+    "ast_hash": "dfdd4d578b63339ae127ddfd295aad37",
+    "semantic_hash": ""
+  },
+  "C:\\Dev\\tcc\\breathesafe\\back\\config\\app.ts": {
+    "mtime": 1786723847.2467792,
+    "ast_hash": "5ad47c9c16eb855a72a926c97e946cc4",
+    "semantic_hash": ""
+  },
+  "C:\\Dev\\tcc\\breathesafe\\back\\config\\auth.ts": {
+    "mtime": 1786723847.2477791,
+    "ast_hash": "0dfcb9d57e3c7e6aa556fce7df8eca2c",
+    "semantic_hash": ""
+  },
+  "C:\\Dev\\tcc\\breathesafe\\back\\config\\bodyparser.ts": {
+    "mtime": 1786723847.2477791,
+    "ast_hash": "86975926312f419d7a0899faf33c5b08",
+    "semantic_hash": ""
+  },
+  "C:\\Dev\\tcc\\breathesafe\\back\\config\\cors.ts": {
+    "mtime": 1786723847.2477791,
+    "ast_hash": "296bf400a9f57c0302a3001529adc607",
+    "semantic_hash": ""
+  },
+  "C:\\Dev\\tcc\\breathesafe\\back\\config\\database.ts": {
+    "mtime": 1786723847.2487943,
+    "ast_hash": "5a8e39909bc748346d144bcefec3f642",
+    "semantic_hash": ""
+  },
+  "C:\\Dev\\tcc\\breathesafe\\back\\config\\hash.ts": {
+    "mtime": 1786723847.2487943,
+    "ast_hash": "87f7030f9131b9da93e4e637ab474cb9",
+    "semantic_hash": ""
+  },
+  "C:\\Dev\\tcc\\breathesafe\\back\\config\\logger.ts": {
+    "mtime": 1786723847.2497952,
+    "ast_hash": "d7b14321639042f0cefe79286ea06d7a",
+    "semantic_hash": ""
+  },
+  "C:\\Dev\\tcc\\breathesafe\\back\\database\\migrations\\1742241289943_create_users_table.ts": {
+    "mtime": 1786723847.2507806,
+    "ast_hash": "bcb2f8f04eb9b619dce2a604e6bd0a9b",
+    "semantic_hash": ""
+  },
+  "C:\\Dev\\tcc\\breathesafe\\back\\database\\migrations\\1742242035430_create_sensors_table.ts": {
+    "mtime": 1786723847.2517793,
+    "ast_hash": "0cc8e1705e8df1e5373c720c185283e2",
+    "semantic_hash": ""
+  },
+  "C:\\Dev\\tcc\\breathesafe\\back\\database\\migrations\\1742242067784_create_readings_table.ts": {
+    "mtime": 1786723847.2517793,
+    "ast_hash": "2c84255694984cda1bfa2eafefbc2255",
+    "semantic_hash": ""
+  },
+  "C:\\Dev\\tcc\\breathesafe\\back\\database\\seeders\\reading_seeder.ts": {
+    "mtime": 1786723847.2527955,
+    "ast_hash": "ddceb2f2d19ced055e0bdeb31e70fc41",
+    "semantic_hash": ""
+  },
+  "C:\\Dev\\tcc\\breathesafe\\back\\database\\seeders\\sensor_seeder.ts": {
+    "mtime": 1786723847.2527955,
+    "ast_hash": "b4a94441ceaf73a13a204be228b75a95",
+    "semantic_hash": ""
+  },
+  "C:\\Dev\\tcc\\breathesafe\\back\\database\\seeders\\user_seeder.ts": {
+    "mtime": 1786723847.2527955,
+    "ast_hash": "0bd172f91bb1e871aea34f3903ddce65",
+    "semantic_hash": ""
+  },
+  "C:\\Dev\\tcc\\breathesafe\\back\\start\\env.ts": {
+    "mtime": 1786723847.2597873,
+    "ast_hash": "e8ba14fd5788eb3161654e37650f18cf",
+    "semantic_hash": ""
+  },
+  "C:\\Dev\\tcc\\breathesafe\\back\\start\\kernel.ts": {
+    "mtime": 1786723847.2597873,
+    "ast_hash": "ce6ba198590289233647ca5bcbbac3ff",
+    "semantic_hash": ""
+  },
+  "C:\\Dev\\tcc\\breathesafe\\back\\start\\routes.ts": {
+    "mtime": 1786723847.2597873,
+    "ast_hash": "b4d85d382367bb638f4e7a587f88d004",
+    "semantic_hash": ""
+  },
+  "C:\\Dev\\tcc\\breathesafe\\back\\tests\\bootstrap.ts": {
+    "mtime": 1786723847.2607803,
+    "ast_hash": "ca83fc2e90ed3aa896e86e7e4b7743a0",
+    "semantic_hash": ""
+  },
+  "C:\\Dev\\tcc\\breathesafe\\front\\+not-found.tsx": {
+    "mtime": 1786723847.2627828,
+    "ast_hash": "0d4888243aac8bee946cf064f659e9ba",
+    "semantic_hash": ""
+  },
+  "C:\\Dev\\tcc\\breathesafe\\front\\app.json": {
+    "mtime": 1786723847.2647798,
+    "ast_hash": "d9c8c6b4119b0f74334621871736fd39",
+    "semantic_hash": ""
+  },
+  "C:\\Dev\\tcc\\breathesafe\\front\\package.json": {
+    "mtime": 1786730027.9970982,
+    "ast_hash": "3288caf9860337fa0eb9cda96dc686df",
+    "semantic_hash": ""
+  },
+  "C:\\Dev\\tcc\\breathesafe\\front\\tsconfig.json": {
+    "mtime": 1786723847.2937803,
+    "ast_hash": "adaaaa688f7831aff81ec39d16eeca1d",
+    "semantic_hash": ""
+  },
+  "C:\\Dev\\tcc\\breathesafe\\front\\_layout.tsx": {
+    "mtime": 1786723847.2647798,
+    "ast_hash": "47d82faeabbf40d38c28d0a2d4739902",
+    "semantic_hash": ""
+  },
+  "C:\\Dev\\tcc\\breathesafe\\front\\app\\(tabs)\\config.tsx": {
+    "mtime": 1786723847.2657793,
+    "ast_hash": "0da26bd7add8345f7f7e5c425024cc46",
+    "semantic_hash": ""
+  },
+  "C:\\Dev\\tcc\\breathesafe\\front\\app\\(tabs)\\connection.tsx": {
+    "mtime": 1786723847.2667792,
+    "ast_hash": "e8a55f0ea6e74c1a1b5232913a7d8f17",
+    "semantic_hash": ""
+  },
+  "C:\\Dev\\tcc\\breathesafe\\front\\app\\(tabs)\\guest.tsx": {
+    "mtime": 1786723847.2667792,
+    "ast_hash": "8fb7451984ef1f2b2757ac3992afd6e7",
+    "semantic_hash": ""
+  },
+  "C:\\Dev\\tcc\\breathesafe\\front\\app\\(tabs)\\history.tsx": {
+    "mtime": 1786723847.267779,
+    "ast_hash": "92170dde7037b1df8a20e7ba224f45a0",
+    "semantic_hash": ""
+  },
+  "C:\\Dev\\tcc\\breathesafe\\front\\app\\(tabs)\\index.tsx": {
+    "mtime": 1786723847.267779,
+    "ast_hash": "c4e5516c68236aca995c933212eae572",
+    "semantic_hash": ""
+  },
+  "C:\\Dev\\tcc\\breathesafe\\front\\app\\(tabs)\\login.tsx": {
+    "mtime": 1786723847.267779,
+    "ast_hash": "c50c5dd44c021b17943e92c192b34127",
+    "semantic_hash": ""
+  },
+  "C:\\Dev\\tcc\\breathesafe\\front\\app\\(tabs)\\monitoring.tsx": {
+    "mtime": 1786723847.2687795,
+    "ast_hash": "db35b9dacfff27c828fa4ebb0474954e",
+    "semantic_hash": ""
+  },
+  "C:\\Dev\\tcc\\breathesafe\\front\\app\\(tabs)\\new_account.tsx": {
+    "mtime": 1786723847.2697802,
+    "ast_hash": "5b4bde09b7e03f268099983075158df6",
+    "semantic_hash": ""
+  },
+  "C:\\Dev\\tcc\\breathesafe\\front\\app\\(tabs)\\register_sensor.tsx": {
+    "mtime": 1786723847.2697802,
+    "ast_hash": "d8819861ad4ae0ba798ce98ed4574090",
+    "semantic_hash": ""
+  },
+  "C:\\Dev\\tcc\\breathesafe\\front\\app\\(tabs)\\welcome.tsx": {
+    "mtime": 1786723847.2697802,
+    "ast_hash": "e446df5d4cc461812738ac8390c2f270",
+    "semantic_hash": ""
+  },
+  "C:\\Dev\\tcc\\breathesafe\\front\\app\\(tabs)\\_layout.tsx": {
+    "mtime": 1786723847.2657793,
+    "ast_hash": "0c403d7c4aeae03fbed2a40ceab544ba",
+    "semantic_hash": ""
+  },
+  "C:\\Dev\\tcc\\breathesafe\\front\\scripts\\reset-project.js": {
+    "mtime": 1786723847.2757795,
+    "ast_hash": "082c3e15f2f8d48d42cc734140b2e26a",
+    "semantic_hash": ""
+  },
+  "C:\\Dev\\tcc\\breathesafe\\front\\src\\components\\Collapsible.tsx": {
+    "mtime": 1786723847.2817945,
+    "ast_hash": "9f51e39313a3e305c606d9697b44b89e",
+    "semantic_hash": ""
+  },
+  "C:\\Dev\\tcc\\breathesafe\\front\\src\\components\\ExternalLink.tsx": {
+    "mtime": 1786723847.2817945,
+    "ast_hash": "e501e2947c842dd5b2ee2d45bdcbed85",
+    "semantic_hash": ""
+  },
+  "C:\\Dev\\tcc\\breathesafe\\front\\src\\components\\HapticTab.tsx": {
+    "mtime": 1786723847.2827835,
+    "ast_hash": "0794528a2e4a1d38e4b561471776013a",
+    "semantic_hash": ""
+  },
+  "C:\\Dev\\tcc\\breathesafe\\front\\src\\components\\Header.tsx": {
+    "mtime": 1786723847.283782,
+    "ast_hash": "ba37b418a220a669c9310ecba9a251ec",
+    "semantic_hash": ""
+  },
+  "C:\\Dev\\tcc\\breathesafe\\front\\src\\components\\HelloWave.tsx": {
+    "mtime": 1786723847.283782,
+    "ast_hash": "97c4d75416dab534eb26e15ddd6f968e",
+    "semantic_hash": ""
+  },
+  "C:\\Dev\\tcc\\breathesafe\\front\\src\\components\\ParallaxScrollView.tsx": {
+    "mtime": 1786723847.2847972,
+    "ast_hash": "9a5da821fd8d9a24d0648402ac2059f4",
+    "semantic_hash": ""
+  },
+  "C:\\Dev\\tcc\\breathesafe\\front\\src\\components\\ThemedText.tsx": {
+    "mtime": 1786723847.2857797,
+    "ast_hash": "dd525216efd54bcefc01abc1a1f7b460",
+    "semantic_hash": ""
+  },
+  "C:\\Dev\\tcc\\breathesafe\\front\\src\\components\\ThemedView.tsx": {
+    "mtime": 1786723847.2857797,
+    "ast_hash": "5cb508c66998e477c4d6e79c97d8565b",
+    "semantic_hash": ""
+  },
+  "C:\\Dev\\tcc\\breathesafe\\front\\src\\components\\ui\\IconSymbol.ios.tsx": {
+    "mtime": 1786723847.2877905,
+    "ast_hash": "089d11181cc7542fa42b05fade85fe36",
+    "semantic_hash": ""
+  },
+  "C:\\Dev\\tcc\\breathesafe\\front\\src\\components\\ui\\IconSymbol.tsx": {
+    "mtime": 1786723847.2877905,
+    "ast_hash": "ba4b458b061aa57eb631da879bf915a6",
+    "semantic_hash": ""
+  },
+  "C:\\Dev\\tcc\\breathesafe\\front\\src\\components\\ui\\TabBarBackground.ios.tsx": {
+    "mtime": 1786723847.2888014,
+    "ast_hash": "c1edf2dfd2564a770a1bb4c18175af78",
+    "semantic_hash": ""
+  },
+  "C:\\Dev\\tcc\\breathesafe\\front\\src\\components\\ui\\TabBarBackground.tsx": {
+    "mtime": 1786723847.2888014,
+    "ast_hash": "0734f6feb67ba3cebeeea59de7b05512",
+    "semantic_hash": ""
+  },
+  "C:\\Dev\\tcc\\breathesafe\\front\\src\\components\\__tests__\\ThemedText-test.tsx": {
+    "mtime": 1786723847.2857797,
+    "ast_hash": "400947ab122546df760de6e899aa21aa",
+    "semantic_hash": ""
+  },
+  "C:\\Dev\\tcc\\breathesafe\\front\\src\\constants\\Colors.ts": {
+    "mtime": 1786723847.2897813,
+    "ast_hash": "c0ff5b026e6bca04d441f412e8c8389d",
+    "semantic_hash": ""
+  },
+  "C:\\Dev\\tcc\\breathesafe\\front\\src\\hooks\\useColorScheme.ts": {
+    "mtime": 1786723847.2907796,
+    "ast_hash": "5e75b3d5ace0289cfc1bab951ca625bb",
+    "semantic_hash": ""
+  },
+  "C:\\Dev\\tcc\\breathesafe\\front\\src\\hooks\\useColorScheme.web.ts": {
+    "mtime": 1786723847.2907796,
+    "ast_hash": "bcd7b96a68e8a00dd1de95aac4953eb6",
+    "semantic_hash": ""
+  },
+  "C:\\Dev\\tcc\\breathesafe\\front\\src\\hooks\\useThemeColor.ts": {
+    "mtime": 1786723847.29178,
+    "ast_hash": "87c530411508a93daad201b13712fed1",
+    "semantic_hash": ""
+  },
+  "C:\\Dev\\tcc\\breathesafe\\front\\src\\services\\api.ts": {
+    "mtime": 1786723847.2927964,
+    "ast_hash": "385f7bc16e05a12ba9c78d96ca109169",
+    "semantic_hash": ""
+  },
+  "C:\\Dev\\tcc\\breathesafe\\front\\src\\types\\env.d.ts": {
+    "mtime": 1786730381.7499535,
+    "ast_hash": "e7e52867c5e3976cbbdc95e0d4d9ec4b",
+    "semantic_hash": ""
+  },
+  "C:\\Dev\\tcc\\breathesafe\\back\\docker-compose.yml": {
     "mtime": 1786723847.2537796,
     "ast_hash": "882ecafd14d6b9230b3d41d95bf670fb",
-    "semantic_hash": "882ecafd14d6b9230b3d41d95bf670fb"
+    "semantic_hash": ""
   },
-  "C:\\Dev\\tcc\\breathesafe\\breathesafe-front\\README.md": {
+  "C:\\Dev\\tcc\\breathesafe\\docs\\BACKEND.md": {
+    "mtime": 1786736803.1455705,
+    "ast_hash": "8938c213a8f4b18caaa5a02200cfbd18",
+    "semantic_hash": ""
+  },
+  "C:\\Dev\\tcc\\breathesafe\\docs\\FRONTEND.md": {
+    "mtime": 1786736879.9422934,
+    "ast_hash": "6b441ea9585bc43a4cd4cb505b7d6848",
+    "semantic_hash": ""
+  },
+  "C:\\Dev\\tcc\\breathesafe\\front\\README.md": {
     "mtime": 1786723847.2637796,
     "ast_hash": "42de5af689889fbc48a4199eca044000",
-    "semantic_hash": "42de5af689889fbc48a4199eca044000"
+    "semantic_hash": ""
   },
-  "C:\\Dev\\tcc\\breathesafe\\breathesafe-front\\src\\assets\\images\\adaptive-icon.png": {
+  "C:\\Dev\\tcc\\breathesafe\\front\\src\\assets\\images\\adaptive-icon.png": {
     "mtime": 1786723847.2787797,
     "ast_hash": "97dae5a0e62ad8551d8a31897b425e63",
-    "semantic_hash": "97dae5a0e62ad8551d8a31897b425e63"
+    "semantic_hash": ""
   },
-  "C:\\Dev\\tcc\\breathesafe\\breathesafe-front\\src\\assets\\images\\icon.png": {
+  "C:\\Dev\\tcc\\breathesafe\\front\\src\\assets\\images\\icon.png": {
     "mtime": 1786723847.2787797,
     "ast_hash": "4e3f888fc8475f69fd5fa32f1ad5216a",
-    "semantic_hash": "4e3f888fc8475f69fd5fa32f1ad5216a"
+    "semantic_hash": ""
   },
-  "C:\\Dev\\tcc\\breathesafe\\breathesafe-front\\src\\assets\\images\\logo.png": {
+  "C:\\Dev\\tcc\\breathesafe\\front\\src\\assets\\images\\logo.png": {
     "mtime": 1786723847.2797792,
     "ast_hash": "0fb1f1c2ee45a6e2404d489156a4e4ea",
-    "semantic_hash": "0fb1f1c2ee45a6e2404d489156a4e4ea"
+    "semantic_hash": ""
   },
-  "C:\\Dev\\tcc\\breathesafe\\breathesafe-front\\src\\assets\\images\\react-logo.png": {
+  "C:\\Dev\\tcc\\breathesafe\\front\\src\\assets\\images\\react-logo.png": {
     "mtime": 1786723847.2797792,
     "ast_hash": "695d5a1c6f29a689130f3aaa573aec6e",
-    "semantic_hash": "695d5a1c6f29a689130f3aaa573aec6e"
+    "semantic_hash": ""
   },
-  "C:\\Dev\\tcc\\breathesafe\\breathesafe-front\\src\\assets\\images\\splash-icon.png": {
+  "C:\\Dev\\tcc\\breathesafe\\front\\src\\assets\\images\\splash-icon.png": {
     "mtime": 1786723847.2807798,
     "ast_hash": "97dae5a0e62ad8551d8a31897b425e63",
-    "semantic_hash": "97dae5a0e62ad8551d8a31897b425e63"
+    "semantic_hash": ""
   }
 }
