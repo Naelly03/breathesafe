@@ -3,7 +3,7 @@ import React, { useState } from 'react';
 import { Ionicons } from '@expo/vector-icons';
 import { router } from 'expo-router';
 import { AxiosError, AxiosResponse } from 'axios';
-import api  from '../../src/services/api'; // Importando o serviço configurado
+import api  from '../../services/api'; // Importando o serviço configurado
 
 interface UserData {
   name: string;

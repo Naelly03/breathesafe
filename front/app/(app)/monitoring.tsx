@@ -14,7 +14,7 @@ import { LineChart } from 'react-native-chart-kit';
 import { Ionicons, FontAwesome5, MaterialCommunityIcons } from '@expo/vector-icons';
 import { useRouter } from 'expo-router';
 import AsyncStorage from '@react-native-async-storage/async-storage';
-import api from '../../src/services/api'; // Ajuste esse caminho conforme seu projeto
+import api from '../../services/api'; // Ajuste esse caminho conforme seu projeto
 
 const screenWidth = Dimensions.get('window').width;
 

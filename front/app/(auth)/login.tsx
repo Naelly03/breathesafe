@@ -3,7 +3,7 @@ import React, { useState } from 'react';
 import { Ionicons } from '@expo/vector-icons';
 import { router } from 'expo-router';
 import { AxiosError, AxiosResponse } from 'axios';
-import  api  from '../../src/services/api';
+import  api  from '../../services/api';
 import AsyncStorage from '@react-native-async-storage/async-storage';
 
 interface LoginData {
